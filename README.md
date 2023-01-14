@@ -2,7 +2,7 @@
 
 Run file app.py to start the chatbot
 
-to enhance the answer question ability of Bot, you need to increase the amount of data in file intents.json 
+To enhance the answer question ability of Bot, you need to increase the amount of data in file intents.json, then run the train.py, file data.pth then will be replace, finally, run file app.py to start the chatbot
 
 
 
